@@ -1,11 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[17]:
-
-
-#1D FEM code for Beam problems
-
 import pandas as pd
 import numpy as np
 import  math
@@ -132,64 +124,3 @@ print("Internal force term ",IF)
 #    flexture=U[2*i]*phi_1+U[2*i+2]*phi_3
 #    P.append(plot(flexture,(x,l[i],l[i+1])))
 #P.show()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
